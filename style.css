@@ -82,6 +82,7 @@
 
 .heading1{
     color: #0b8500;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 * {box-sizing:border-box}
@@ -93,7 +94,7 @@
 }
 
 .mySlides {
-  display: none;
+display: none;
 }
 
 .prev, .next {
