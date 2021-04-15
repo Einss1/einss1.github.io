@@ -1,18 +1,18 @@
 .sidenav {
     height: 100%;
-    width: 170px;
+    width: 12%;
     position: fixed;
     z-index: 1;
     top: 0;
     left: 0;
     background-color: rgb(17, 17, 17);
     overflow-x: hidden;
-    padding-top: 20px;
+    padding-top: 5%;
 }
   
 
 .sidenav a {
-    padding: 20px 5px 40px 14px;
+    padding: 10%;
     text-decoration: none;
     font-size: 22px;
     color: #0b8500;
@@ -22,16 +22,6 @@
 
 .sidenav a:hover {
     color: #f1f1f1;
-}
-
-.main {
-    margin-left: 160px;
-    padding: 0px 10px;
-}
-
-@media screen and (max-height: 450px) {
-    .sidenav {padding-top: 15px;}
-    .sidenav a {font-size: 18px;}
 }
 
 .sidenav a.active {
@@ -45,7 +35,7 @@
 }
 
 .flag {
-    width: 30px;
+    width: 15%;
 }
 
 .container1{
@@ -57,6 +47,7 @@
     margin-top: 2%;
     width: 80%;
     height: 90%;
+    
 }
 
 .imageLuan{
@@ -74,7 +65,7 @@
 
 .details2{
     position: relative;
-    top: 100px;
+    top: 9%;
     font-size: 28px;
     color: #0b8500;
     left: 1%;
@@ -182,6 +173,6 @@ display: none;
     font-size: 30px;
     color: #0b8500;
     position: left;
-    margin-top: 300px;
-    margin-left: 400px;
+    margin-top: 20%;
+    margin-left: 20%;
 }
